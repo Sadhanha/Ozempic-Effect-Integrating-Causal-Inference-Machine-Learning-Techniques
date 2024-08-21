@@ -1,5 +1,3 @@
-# Ozempic-Effectiveness-Integrating-Causal-Inference
-
 ### Overview
 
 The project aims to address the business problem of effectively targeting and treating obese and hypertensive patients aged 40 to 75. The primary focus is to identify patterns and actionable insights from a healthcare dataset, particularly concerning the prescription and use of medications like Ozempic.
